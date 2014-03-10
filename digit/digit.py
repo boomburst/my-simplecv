@@ -1,3 +1,6 @@
+#Simple script to detect digits using basic geometry (8, 6, 9)
+#Use an image file as argument 
+
 from SimpleCV import *
 from sys import *
 
